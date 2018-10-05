@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.notification {
+  background-color: YellowGreen;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid Black;
+}
